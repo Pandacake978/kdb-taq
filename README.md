@@ -109,3 +109,4 @@ you use for your application.
 
 ### Brand new commit
 I am adding a brand new commit here
+This is a new line, that will be commited!
